@@ -6,23 +6,23 @@ def create_an_array = ["red", "blue", "yellow", "green"]
   
 end
 
-def add_element_to_end_of_array(array, element)
+def create_an_array << "black"
   
 end
 
-def add_element_to_start_of_array(array, element)
+def create_an_array.unshift ("purple")
   
 end
 
-def remove_element_from_end_of_array(array)
+def create_an_array.pop ("green")
   
 end
 
-def remove_element_from_start_of_array(array)
+def red = create_an_array.shift
   
 end
 
-def retrieve_element_from_index(array, index_number)
+def create_an_array.index ["2"]
   
 end
 
